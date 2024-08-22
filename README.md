@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey there! 👋 I'm Vikram D P
 
-<!--
-**vikram17dp/vikram17dp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiastic Full Stack Developer dedicated to tackling complex challenges and discovering new technologies. My deep interest in Data Structures and Algorithms (DSA) drives me to solve DSA problems daily, ensuring my skills remain sharp and continue to advance.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full Stack Developer
+- 🎓 Computer Science Engineer
+- 🔍 Always eager to learn and explore new technologies
+- 🌱 Currently diving deep into Full Stack web development
+
+## 🎓 Education
+
+- Bachelor of Engineering in Computer Science and Engineering
+- College: MVJ College of Engineering, Bengaluru
+- Year: 2nd Year (Currently pursuing)
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Frontend:** HTML, CSS, JavaScript, React.js,Redux ToolKit
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Other Tools:** Git
+- **Languages:** Java, C, C++, JavaScript
+
+## 📚 Daily DSA
+
+I'm passionate about Data Structures and Algorithms and I solve DSA problems daily to hone my problem-solving skills and keep my mind sharp. Feel free to check out my [DSA Daily](https://github.com/vikram17dp/LeetCodeProblem) repository where I document my journey of solving DSA problems.
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [Vikram D P](https://www.linkedin.com/in/vikram-d-p-20053127b/)
+- **Twitter:** [@VikramDp2](https://x.com/VikramDp2)
+
+## 🌐 Recent Project
+
+Check out my recent project, [FoodApp](https://food-app-drab-ten.vercel.app/), which showcases my skills in Full Stack development. Feel free to explore and let me know your thoughts!
+
+Feel free to reach out if you have any questions, suggestions, or just want to chat! 😊
