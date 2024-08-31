@@ -37,6 +37,7 @@ I'm passionate about Data Structures and Algorithms and I solve DSA problems dai
 ## 🌐 Recent Project
 
 1).Check out my recent project, [FoodApp](https://food-app-drab-ten.vercel.app/), which showcases my skills in Full Stack development. Feel free to explore and let me know your thoughts!
+
 2).Check out my another recent project, [MERN-Auth](https://mern-authproject.onrender.com/) - A full-stack authentication app using MERN stack with Google OAuth integration for secure login.
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat! 😊
