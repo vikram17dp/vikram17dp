@@ -19,7 +19,7 @@ I’m an enthusiastic Full Stack Developer dedicated to tackling complex challen
 
 Here are some of the technologies and tools I work with:
 
-- **Frontend:** HTML, CSS, JavaScript, React.js,Redux ToolKit,TailWind
+- **Frontend:** HTML, CSS, JavaScript, React.js,Redux ToolKit,TailWind,EJS
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
 - **Other Tools:** Git,VS Code,React vite,MongoDB Atlas,FireBase
