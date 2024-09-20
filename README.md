@@ -13,7 +13,7 @@ I’m an enthusiastic Full Stack Developer dedicated to tackling complex challen
 
 - Bachelor of Engineering in Computer Science and Engineering
 - College: MVJ College of Engineering, Bengaluru
-- Year: 2nd Year (Currently pursuing)
+- Year: 3rd Year (Currently pursuing)
 
 ## 🔧 Technologies & Tools
 
