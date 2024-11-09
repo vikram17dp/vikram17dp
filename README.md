@@ -83,6 +83,8 @@
 
 4). Check out my recent project: Real Estate Platform! [EstateEase](https://mern-estate-project1.onrender.com/) This full-stack application, built with the MERN stack and Firebase, offers secure user authentication, responsive design, and intuitive navigation for seamless property management on any device.
 
+5). Check out my latest project: [Prescripto HSP!](https://pre-scripto-hopso-frontend.vercel.app/) Patient Portal This full-stack hospital management platform, built with the MERN stack and integrated with Firebase for secure authentication and Stripe for payments, offers role-based dashboards for admins and doctors, making healthcare management efficient and user-friendly for both patients and medical professionals.
+
 </h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram17dp&show_icons=true&locale=en&layout=compact" alt="vikram17dps" /></p>
