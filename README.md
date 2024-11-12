@@ -79,7 +79,7 @@
 
 2). Check out my another recent project, [MERN-Auth](https://mern-authproject.onrender.com/) - A full-stack authentication app using the MERN stack with Google OAuth integration for secure login.
 
-3). Check out my recent project, [LinkedIn Clone](https://linkedin-clone-2.onrender.com/login) - A full-stack platform built using the MERN stack, mimicking core functionalities of LinkedIn with features like secure email notifications and real-time data fetching.
+3). Check out my recent project, [CarrerLink](https://carrerlink.onrender.com/login) - A full-stack platform built using the MERN stack, mimicking core functionalities of CarrerLink with features like secure email notifications and real-time data fetching.
 
 4). Check out my recent project: Real Estate Platform! [EstateEase](https://mern-estate-project1.onrender.com/) This full-stack application, built with the MERN stack and Firebase, offers secure user authentication, responsive design, and intuitive navigation for seamless property management on any device.
 
