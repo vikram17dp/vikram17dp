@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://x.com/VikramDp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikramDp2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vikram-d-p-20053127b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vikram-d-p-20053127b/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/VIKRAM_D_P/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikram_dp" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/VIKRAM_D_P/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikram_dp" height="30" width="40" /></a> -->
 <a href="https://vercel.com/vikram17dps-projects" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" height="30" width="40" /></a>
 </p>
 
@@ -63,9 +63,9 @@
 <a href="https://vercel.com/" target="_blank">
   <img src="https://imgs.search.brave.com/oHLMTA-7r9z3y42AQ-DgXAItTjqzWEFaBN45ImB5nuU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3ZlcmNl/bDE4NjguanBn" alt="Vercel Deployment" width="40" height="30"/>
 </a>
-<a href="https://leetcode.com/u/VIKRAM_D_P/" target="_blank">
+<!-- <a href="https://leetcode.com/u/VIKRAM_D_P/" target="_blank">
   <img src="https://imgs.search.brave.com/LE-2soOiDqTstSeu2vl_xvjGq6SjFjpTnTTiWZyVV8o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLWxv/Z28taWNvbi1kb3du/bG9hZC1pbi1zdmct/cG5nLWdpZi1maWxl/LWZvcm1hdHMtLXRl/Y2hub2xvZ3ktc29j/aWFsLW1lZGlhLXZv/bC00LXBhY2stbG9n/b3MtaWNvbnMtMjk0/NDk2MC5wbmc_Zj13/ZWJwJnc9MjU2" alt="LeetCode" width="40" height="40"/>
-</a>
+</a> -->
 
 
 </p>
