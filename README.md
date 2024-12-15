@@ -91,6 +91,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram17dp&" alt="vikram17dps" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram17dp&" alt="vikram17dps" /></p>
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat! 😊
