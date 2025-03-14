@@ -1,17 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Vikram D P</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ## 🎓 Education
 
-- Bachelor of Engineering in Computer Science and Engineering
-- College: MVJ College of Engineering, Bengaluru
-- Year: 3rd Year (Currently pursuing)
-- My aggregate CGPA is 8.55 after four semesters.
+- **Bachelor of Engineering (B.E.) in Computer Science and Engineering**  
+  *MVJ College of Engineering, Bengaluru*  
+  - Currently in 3rd Year (Pursuing)  
+  - Aggregate CGPA: **8.55** (after four semesters)  
 
-- 🔭 I’m currently working on **FULL STACK PROJECTS and DSA problems**
+- 🔭 I’m currently working on **Next.js and TypeScript projects**, focusing on building scalable and performant full-stack applications. I'm also solving **DSA problems** to strengthen my problem-solving skills.
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js, Java,Redis,WebSockets**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes, AWS Lambda, Serverless Architecture, and DynamoDB** to expand my knowledge in cloud computing and modern backend technologies.
+
+- 💬 Ask me about **React, Node.js, MongoDB, Express.js, Java**
 
 - 📫 How to reach me **vikramdp505@gmail.com**
 
@@ -19,59 +20,41 @@
 <p align="left">
 <a href="https://x.com/VikramDp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikramDp2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vikram-d-p-20053127b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vikram-d-p-20053127b/" height="30" width="40" /></a>
-<!-- <a href="https://leetcode.com/u/VIKRAM_D_P/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikram_dp" height="30" width="40" /></a> -->
 <a href="https://vercel.com/vikram17dps-projects" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/tYvyTcN5P6NwUIaY0K19JOErSABDWUKuuqIou6mJ8oQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS84/NmY2MWY3ZDQzNjdj/NzFhNTgwZTExYWYw/YmNkNGYzMzNkMWI5/NjcyMjVhNjc5YTEy/OTk4NjU3ZGIxMzA3/ZGQzLzY4NzQ3NDcw/NzMzYTJmMmY2OTJl/NjM2YzZmNzU2NDc1/NzAyZTYzNmY2ZDJm/N2E2NjU5MzY2YzRj/Mzc2NTQ2NjEyZDMz/MzAzMDMwNzgzMzMw/MzAzMDJlNzA2ZTY3" alt="express" width="40" height="30"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img src="https://imgs.search.brave.com/b1mza9u8ePJdo9VHfx00bmjzGwVI_b7cLPA1ONSjIL0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzRjL1R5cGVzY3Jp/cHRfbG9nb18yMDIw/LnN2Zw" alt="TypeScript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://ejs.co/" target="_blank">
-  <img src="https://imgs.search.brave.com/j8JV8UNi_dL98V9raIwO_eC6Inv53Yq6Y4yQ78aWUaA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/LzM2OC8yMjQ3MzY4/LW1pZGRsZS5wbmc" alt="EJS" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-  <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack-react-query" width="40" height="40"/>
-</a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> <img src="https://resources.whatwg.org/logo-websockets.svg" alt="websockets" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/> </a>
-<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="restapi" width="40" height="40"/> </a>
-<a href="https://oauth.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" alt="oauth" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
-<a href="https://mailtrap.io/" target="_blank" rel="noreferrer"> <img src="https://mailtrap.io/wp-content/uploads/2023/01/mailtrap-logo-inverse.svg" alt="mailtrap" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/GdVVHFO1xZg9wW2ytPUJRSlIpdJcevNjeZYj-cJt-n8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzM4/MXl1L3N0eWxlcy9j/b21tdW5pdHlJY29u/XzJmN2hod2ZzNXBr/MzEucG5n" alt="vscode" width="40" height="40"/> </a>
-<a href="https://render.com/" target="_blank">
-  <img src="https://www.rendernetworks.com/hs-fs/hubfs/Render%20Logo%20Orange@2x.png?width=225&height=51&name=Render%20Logo%20Orange@2x.png" alt="Render Deployment" width="50" height="30"/>
-</a>
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://imgs.search.brave.com/oHLMTA-7r9z3y42AQ-DgXAItTjqzWEFaBN45ImB5nuU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3ZlcmNl/bDE4NjguanBn" alt="Vercel Deployment" width="40" height="30"/>
-</a>
-<!-- <a href="https://leetcode.com/u/VIKRAM_D_P/" target="_blank">
-  <img src="https://imgs.search.brave.com/LE-2soOiDqTstSeu2vl_xvjGq6SjFjpTnTTiWZyVV8o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLWxv/Z28taWNvbi1kb3du/bG9hZC1pbi1zdmct/cG5nLWdpZi1maWxl/LWZvcm1hdHMtLXRl/Y2hub2xvZ3ktc29j/aWFsLW1lZGlhLXZv/bC00LXBhY2stbG9n/b3MtaWNvbnMtMjk0/NDk2MC5wbmc_Zj13/ZWJwJnc9MjU2" alt="LeetCode" width="40" height="40"/>
-</a> -->
 
-
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=ui&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TanStack React Query](https://img.shields.io/badge/TanStack%20React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Kinde Auth](https://img.shields.io/badge/Kinde%20Auth-000000?style=for-the-badge&logo=kinde&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)-->
 
 <h4>
-
 
 ## 🌐 Recent Projects
 
@@ -89,8 +72,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram17dp&show_icons=true&locale=en&layout=compact" alt="vikram17dps" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram17dp&" alt="vikram17dps" /></p>
-
-Feel free to reach out if you have any questions, suggestions, or just want to chat! 😊
