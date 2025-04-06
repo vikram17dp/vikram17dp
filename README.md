@@ -50,7 +50,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white)
 ![TanStack React Query](https://img.shields.io/badge/TanStack%20React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-0AFFEF?style=for-the-badge&logo=neon&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
