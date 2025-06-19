@@ -6,7 +6,7 @@
 - **Bachelor of Engineering (B.E.) in Computer Science and Engineering**  
   *MVJ College of Engineering, Bengaluru*  
   - Currently in 3rd Year (Pursuing)  
-  - Aggregate CGPA: **8.55** (after four semesters)  
+  - Aggregate CGPA: **8.45** (after five semesters)  
 
 - 🔭 I’m currently working on **Next.js and TypeScript projects**, focusing on building scalable and performant full-stack applications. I'm also solving **DSA problems** to strengthen my problem-solving skills.
 
