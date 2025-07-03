@@ -59,6 +59,7 @@ type Developer = {
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>  
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=ui&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/TanStack%20React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>  
 </p>  
 
 ### 🧩 Backend  
@@ -89,7 +90,7 @@ type Developer = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>  
+ 
 </p>  
 
 ### 🛠️ Tools  
@@ -99,7 +100,7 @@ type Developer = {
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>  
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/TanStack%20React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/> 
 </p>  
 
 
