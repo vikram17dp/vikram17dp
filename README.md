@@ -21,7 +21,7 @@ type Developer = {
   name: "Vikram D P";
   education: {
     current: "B.E. in Computer Science, MVJ College of Engineering, Bengaluru";
-    year: "4th Year (CGPA: 8.45 utp 5th sem)";
+    year: "4th Year (CGPA: 8.45 utp 6th sem)";
   };
   workingOn: ["Next.js", "TypeScript", "Full Stack Projects", "DSA"];
   learning: ["AWS", "Docker", "Kubernetes", "Serverless", "DynamoDB"];
