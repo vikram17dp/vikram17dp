@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E3&width=435&lines=Building+Software+to+Solve+Real-world+Problems!;Full-Stack+Developer+%7C+Problem+Solver!;Transforming+Ideas+into+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7E3&width=600&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+AI-Powered+%26+Scalable+Applications;Generative+AI+%7C+RAG+%7C+Agentic+AI;LangChain+%7C+LangGraph+%7C+Vector+Databases;DSA+%7C+System+Design+%7C+Problem+Solving;Preparing+for+Product-Based+Software+Roles!" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vikram D P</h1>
 
 <p align="center">
-  <em> 
-  Full Stack Developer & DSA Enthusiast, passionate about building real-world solutions and writing clean, efficient code.
+  <em>
+  AI Engineer & Full Stack Developer, passionate about building intelligent, scalable applications and solving real-world problems with code.
   </em>
 </p>
 
@@ -20,75 +20,20 @@
 type Developer = {
   name: "Vikram D P";
   role: "Software Engineer Intern @ CGI";
-
-  workingOn: [
-    "AI Engineering",
-    "Generative AI",
-    "RAG & Agentic AI",
-    "Full-Stack Applications",
-    "DSA"
-  ];
-
-  ai: [
-    "LLMs",
-    "Prompt Engineering",
-    "RAG",
-    "Embeddings",
-    "Vector Databases",
-    "LangChain",
-    "LangGraph",
-    "Pinecone",
-    "Hugging Face",
-    "AI Agents",
-    "LLM Evaluation"
-  ];
-
-  stack: [
-    "Next.js",
-    "React",
-    "TypeScript",
-    "Tailwind CSS",
-    "Node.js",
-    "Express.js",
-    "Python",
-    "FastAPI",
-    "PostgreSQL",
-    "MongoDB",
-    "Redis"
-  ];
-
-  learning: [
-    "System Design",
-    "Advanced RAG",
-    "Multi-Agent Systems",
-    "LLM Evaluation",
-    "AWS",
-    "Docker",
-    "Kubernetes",
-    "Distributed Systems"
-  ];
-
-  dsa: [
-    "400+ Problems",
-    "Arrays & Strings",
-    "Linked Lists",
-    "Stacks & Queues",
-    "Trees & BST",
-    "Graphs & Dijkstra",
-    "Binary Search",
-    "Sliding Window",
-    "Dynamic Programming"
-  ];
-
+  workingOn: ["AI Engineering", "Generative AI", "RAG & Agentic AI", "Full-Stack Applications", "DSA"];
+  ai: ["LLMs", "Prompt Engineering", "RAG", "Embeddings", "Vector Databases", "LangChain", "LangGraph", "Pinecone", "Hugging Face", "AI Agents", "LLM Evaluation"];
+  stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js", "Express.js", "Python", "FastAPI", "PostgreSQL", "MongoDB", "Redis"];
+  learning: ["System Design", "Advanced RAG", "Multi-Agent Systems", "LLM Evaluation", "AWS", "Docker", "Kubernetes", "Distributed Systems"];
   email: "vikramdp505@gmail.com";
 };
 ```
 
-➡️ I enjoy working across both frontend and backend to build efficient, scalable applications.
+➡️ I enjoy building **AI-powered and full-stack applications** that solve real-world problems.
 
-➡️ I'm currently focused on cloud-native development and solving algorithmic challenges to sharpen my problem-solving mindset.
+➡️ I'm currently focused on **Generative AI, RAG, Agentic AI, system design, and DSA**.
 
-➡️ I love working on innovative, impactful projects — feel free to connect and collaborate!
+➡️ I love exploring new technologies, building **scalable and impactful projects**, and continuously improving as a software engineer.
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -96,68 +41,90 @@ type Developer = {
 
 ## 🛠️ My Tech Stack
 
-### 💻 Languages  
-<p align="center">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
-</p>  
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-### 🖼️ Frontend  
-<p align="center">  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=ui&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/TanStack%20React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>  
-</p>  
+### 🤖 AI / GenAI
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LM%20Studio-5A5A5A?style=for-the-badge"/>
+</p>
 
-### 🧩 Backend  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Kinde%20Auth-000000?style=for-the-badge&logo=kinde&logoColor=white"/>  
-</p>  
+### 🖼️ Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
-### 🗃️ Databases  
-<p align="center">  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Neon-0AFFEF?style=for-the-badge&logo=neon&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>  
-</p>  
+### 🧩 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
+### 🗃️ Databases & Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
 
-### ☁️ DevOps & Hosting  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>  
- 
-</p>  
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
-### 🛠️ Tools  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/> 
-</p>  
+### 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-
+### 💻 Coding Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -259,77 +226,22 @@ type Developer = {
 
 <br clear="both"/>
 
-## 📈 Coding Journey
 
-```
-2023    ┌────────┐    ┌────────┐    ┌────────┐
-        │   C    │    │  C++   │    │ HTML,  │
-        │ Lang   │───▶│ Basics │───▶│CSS, JS │
-        │ Start  │    │        │    │        │
-        └────────┘    └────────┘    └────────┘
-             │
-             ▼
-Mid     ┌──────────────┐    ┌────────────────────┐
-2023    │ First Static │───▶│ Java + DSA (Apna  │
-        │  Websites    │    │ College Course)    │
-        └──────────────┘    └────────────────────┘
-             │
-             ▼
-        ┌────────────────┐    ┌─────────────────┐
-        │ Problem Solving│───▶│ DSA Practice    │
-        │    Started     │    │    Begins       │
-        └────────────────┘    └─────────────────┘
-             │
-             ▼
-Late    ┌────────────────┐    ┌────────────────┐
-2023    │ React.js       │───▶│ Node.js +      │
-        │ Learning       │    │ MongoDB        │
-        └────────────────┘    └────────────────┘
-             │
-             ▼
-        ┌─────────────────┐
-        │ React Projects  │
-        │   Completed     │
-        └─────────────────┘
-             │
-             ▼
-2024    ┌────────────────┐    ┌───────────────────┐
-        │ Full-Stack     │───▶│ Next.js Learning  │
-        │ Applications   │    │ & Advanced Stack  │
-        └────────────────┘    └───────────────────┘
-             │
-             ▼
-        ┌────────────────────┐
-        │ Heavy DSA Practice │
-        │ & Problem Solving  │
-        └────────────────────┘
-             │
-             ▼
-2025    ┌────────────────────────────┐    ┌─────────────────────────────┐
-        │ Production-Ready Projects  │───▶│ Full-Stack Internship       │
-        │ with Next.js & Modern      │    │ Applications Started        │
-        │        Tech Stack          │    └─────────────────────────────┘
-        └────────────────────────────┘
-             │
-             ▼
-        ┌────────────────────────────────────┐
-        │      The journey continues...      │
-        └────────────────────────────────────┘
-```
 
 ### 📚 Learning Philosophy
 
 > "Every line of code is a step forward in solving real-world problems"
 
-The journey from writing my first C program to building full-stack applications has been incredible. Each milestone brought new challenges, technologies, and opportunities to grow as a developer.
+The journey from writing my first C program to building full-stack and AI-powered applications has been incredible. Every milestone has brought new challenges, technologies, and opportunities to grow as a software engineer.
 
 ### 🚀 What's Next?
 
-- Securing a full-stack development internship
-- Contributing to open-source projects
-- Exploring cloud technologies (AWS, Docker, Kubernetes)
-- Building more scalable and production-ready applications
-
+- Deepening my skills in AI Engineering, Generative AI, RAG, and Agentic AI
+- Strengthening System Design, DSA, and problem-solving skills
+- Building scalable, production-ready AI and full-stack applications
+- Exploring advanced cloud and infrastructure technologies with AWS, Docker, and Kubernetes
+- Contributing to open-source projects and real-world engineering initiatives
+- Preparing for product-based software engineering roles
 
 ## 📊 GitHub Stats
 
