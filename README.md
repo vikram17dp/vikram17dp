@@ -19,13 +19,67 @@
 ```typescript
 type Developer = {
   name: "Vikram D P";
-  education: {
-    current: "B.E. in Computer Science, MVJ College of Engineering, Bengaluru";
-    year: "4th Year (CGPA: 8.52 upto 6th sem)";
-  };
-  workingOn: ["Next.js", "TypeScript", "Full Stack Projects", "DSA"];
-  learning: ["AWS", "Docker", "Kubernetes", "Serverless", "DynamoDB"];
-  askMeAbout: ["React", "Node.js", "MongoDB", "Express.js", "Java"];
+  role: "Software Engineer Intern @ CGI";
+
+  workingOn: [
+    "AI Engineering",
+    "Generative AI",
+    "RAG & Agentic AI",
+    "Full-Stack Applications",
+    "DSA"
+  ];
+
+  ai: [
+    "LLMs",
+    "Prompt Engineering",
+    "RAG",
+    "Embeddings",
+    "Vector Databases",
+    "LangChain",
+    "LangGraph",
+    "Pinecone",
+    "Hugging Face",
+    "AI Agents",
+    "LLM Evaluation"
+  ];
+
+  stack: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis"
+  ];
+
+  learning: [
+    "System Design",
+    "Advanced RAG",
+    "Multi-Agent Systems",
+    "LLM Evaluation",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Distributed Systems"
+  ];
+
+  dsa: [
+    "400+ Problems",
+    "Arrays & Strings",
+    "Linked Lists",
+    "Stacks & Queues",
+    "Trees & BST",
+    "Graphs & Dijkstra",
+    "Binary Search",
+    "Sliding Window",
+    "Dynamic Programming"
+  ];
+
   email: "vikramdp505@gmail.com";
 };
 ```
